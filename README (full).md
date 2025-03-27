@@ -209,15 +209,14 @@ The price distribution is skewed, with most values concentrated between the firs
 
 ### **Distribution analysis of Coca Cola FEMSA stock prices**
 
-```
 <div align="center">
-  <img src="URL" 
-  alt="Distribution analysis of Coca Cola FEMSA stock prices" width="500" height="650" />
+  <img src="https://github.com/user-attachments/assets/3f763277-3984-4f89-9f0e-9a6608fa470b" alt="Distribution analysis of Coca Cola FEMSA stock prices" width="1280" height="720" />
   <div align="center">
-    Calculadora sin ejecutar
+    Distribution analysis of Coca Cola FEMSA stock price
   </div>
 </div>
-```
+
+<br>
 
 - **Distribution shape:**
 
@@ -237,15 +236,15 @@ The histograms of opening and closing prices are nearly identical, as expected g
 
 ### **Coca Cola FEMSA price trend**
 
-```
+
 <div align="center">
-  <img src="URL" 
-  alt="Coca Cola FEMSA price trend" width="500" height="650" />
+  <img src="https://github.com/user-attachments/assets/e134f73d-e4c2-4006-95c4-55ef0b2160a8" alt="Coca Cola FEMSA price trend" width="1280" height="720" />
   <div align="center">
-    Calculadora sin ejecutar
+    Coca Cola FEMSA price trend
   </div>
 </div>
-```
+
+<br>
 
 **Graph description**
 
@@ -287,15 +286,15 @@ The strong similarity between opening and closing prices suggests that simple pr
 
 ### **Correlation matrix insights**
 
-```
+
 <div align="center">
-  <img src="URL" 
-  alt="Correlation matrix insights" width="500" height="650" />
+  <img src="https://github.com/user-attachments/assets/7bcc8eba-49d5-4c6a-a673-a701393cec94" alt="Correlation matrix insights" width="1280" height="720" />
   <div align="center">
-    Calculadora sin ejecutar
+    Correlation matrix
   </div>
 </div>
-```
+
+<br>
 
 This correlation matrix allows us to identify which variables are worth including in our analysis and which might be redundant. It also shows the need to consider additional indicators—like historical volatility, corporate calendars, or macroeconomic factors—that aren’t immediately apparent in a simple correlation study.
 
@@ -335,15 +334,15 @@ Overall, the correlation matrix clearly illustrates how the price features (clos
 
 ### **Volatility analysis**
 
-```
+
 <div align="center">
-  <img src="URL" 
-  alt="Volatility analysis" width="500" height="650" />
+  <img src="https://github.com/user-attachments/assets/73a1320e-d4e2-453e-9bfe-5f473ced1408" alt="Volatility analysis" width="1280" height="720" />
   <div align="center">
-    Calculadora sin ejecutar
+    Volatility analysis
   </div>
 </div>
-```
+
+<br>
 
 **Defining volatility**
 
@@ -394,15 +393,14 @@ A deep understanding of daily volatility is essential for evaluating the uncerta
 
 ### **Trading volume analysis**
 
-```
 <div align="center">
-  <img src="URL" 
-  alt="Trading volume analysis" width="500" height="650" />
+  <img src="https://github.com/user-attachments/assets/e552e74b-7ec8-4fa1-a5c2-8bc7f81a0876" alt="Trading volume analysis" width="1280" height="720" />
   <div align="center">
-    Calculadora sin ejecutar
+    Trading volume analysis
   </div>
 </div>
-```
+
+<br>
 
 **Graph description**
 
@@ -422,15 +420,14 @@ A deep understanding of daily volatility is essential for evaluating the uncerta
 
 ### **Closing price trend**
 
-```
+
 <div align="center">
-  <img src="URL" 
-  alt="Closing price trend" width="500" height="650" />
+  <img src="https://github.com/user-attachments/assets/863aed8f-c9a3-42e8-8041-8dbafa97134b" alt="Closing price trend" width="1280" height="720" />
   <div align="center">
-    Calculadora sin ejecutar
+    Closing price trend
   </div>
 </div>
-```
+
 
 **Graph description**
 
@@ -475,15 +472,14 @@ In summary, the closing price trend graph underscores Coca-Cola FEMSA’s recove
 
 ### **Comparison of prediction models**
 
-```
 <div align="center">
-  <img src="URL" 
-  alt="Comparison of prediction models" width="500" height="650" />
+  <img src="https://github.com/user-attachments/assets/a9162c80-980d-4468-a933-30f09e19c0ce" alt="Comparison of prediction models" width="1280" height="720" />
   <div align="center">
-    Calculadora sin ejecutar
+    Comparison of prediction models
   </div>
 </div>
-```
+
+<br>
 
 **Graph description**
 
@@ -628,8 +624,6 @@ By rigorously evaluating model performance, the study identifies XGBoost and LST
 
 ---
 
-```
 <p align="center">
 <big><strong>✨¡Gracias por visitar este repositorio!✨</strong></big>
 </p>
-```
